@@ -9,6 +9,6 @@ W moim repozytorium znajdziesz różne projekty i pliki, zarówno te do CV jak i
 EN version
 
 Hi,
-This is Menorek, a web developer with ambitious plans for the future.
+This is Menorek, a content creator with ambitious plans for the future.
 I work with computer graphics, programming, and website development.
 In my repository, you'll find various projects and files, both for CVs and course materials.
